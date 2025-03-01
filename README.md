@@ -1,2 +1,3 @@
-# Flutter_2_kun
-Flutter basic UI
+# weather_7_days
+
+A new Flutter project.
